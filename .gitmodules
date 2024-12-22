@@ -1,0 +1,6 @@
+[submodule "edu"]
+	path = edu
+	url = https://github.com/nanmengyu/EOLP-backend.git
+[submodule "edu-web"]
+	path = edu-web
+	url = https://github.com/nanmengyu/EOLP-frontend.git
